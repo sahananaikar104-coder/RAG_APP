@@ -1,4 +1,7 @@
+
 streamlit
+pandas
+openpyxl
 langchain
 langchain-core
 langchain-community
@@ -7,5 +10,4 @@ langchain-huggingface
 faiss-cpu
 sentence-transformers
 pypdf
-pandas
-openpyxl
+
