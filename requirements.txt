@@ -1,1 +1,11 @@
 streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+pandas
+openpyxl
