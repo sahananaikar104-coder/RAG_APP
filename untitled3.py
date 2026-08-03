@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import os
@@ -236,4 +236,3 @@ Rules:
 
     with st.chat_message("assistant"):
         st.markdown(response)
-```
